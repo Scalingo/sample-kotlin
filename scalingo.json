@@ -1,0 +1,9 @@
+{
+
+  "name": "Sample Kotlin",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/Scalingo/sample-kotlin",
+  "website": "https://sample-kotlin.scalingo.io",
+  "description": "A Kotlin app, which can easily be deployed to Scalingo.",
+  "addons": [ "heroku-postgresql" ]
+}
